@@ -10,6 +10,3 @@ return sum ;
 }
 console.log(number(10));
 
-
-
-
