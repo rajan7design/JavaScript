@@ -1,7 +1,7 @@
 const person = {
-    name: "saubhagya",
+    name: "bhagya chor",
     age: 17,
-    city: "Pokhara"
+    city: "Pokhara" 
 }
 console.log(person.name);
 console.log(person.age);
